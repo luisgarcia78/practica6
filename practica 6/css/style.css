@@ -1,0 +1,16 @@
+body{
+  background: linear-gradient(80deg, #d48716, #235be4);
+  font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-size: 22px;
+}
+  div{
+    color: #3f4144;
+    height: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 1px solid #999999;
+    background-color: #bdb9cd;
+    border-radius: 15px;
+    border: solid 2px #999999;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px #C0C2C3:
+  }
